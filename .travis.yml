@@ -4,12 +4,6 @@ jdk:
   - oraclejdk8
   - openjdk11
 
-# whitelist
-branches:
-  only:
-    - develop
-    - develop-plus
-
 matrix:
   - LC_ALL=C
   - LC_ALL=pl_PL
