@@ -6,7 +6,7 @@
     <parent>
         <artifactId>xchange-parent</artifactId>
         <groupId>com.github.badgerwithagun.XChange</groupId>
-        <version>4.3.14.orko.2</version>
+        <version>4.3.14.orko.3-SNAPSHOT</version>
     </parent>
 
     <artifactId>xchange-cryptopia</artifactId>
