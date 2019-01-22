@@ -6,7 +6,7 @@
     <parent>
         <artifactId>xchange-parent</artifactId>
         <groupId>com.github.badgerwithagun.XChange</groupId>
-        <version>4.3.14.orko.3</version>
+        <version>4.3.14.orko.4-SNAPSHOT</version>
     </parent>
 
     <artifactId>xchange-abucoins</artifactId>
