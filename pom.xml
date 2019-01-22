@@ -9,7 +9,7 @@
 
 	<groupId>com.github.badgerwithagun.XChange</groupId>
 	<artifactId>xchange-parent</artifactId>
-	<version>4.3.14.orko.3-SNAPSHOT</version>
+	<version>4.3.14.orko.3</version>
 	<packaging>pom</packaging>
 
 	<name>XChange</name>
@@ -86,7 +86,7 @@
 		<connection>scm:git:git@github.com:badgerwithagun/XChange.git</connection>
 		<developerConnection>scm:git:git@github.com:badgerwithagun/XChange.git</developerConnection>
 		<url>git@github.com:badgerwithagun/XChange.git</url>
-		<tag>HEAD</tag>
+		<tag>4.3.14.orko.3</tag>
 	</scm>
 
 	<ciManagement>
