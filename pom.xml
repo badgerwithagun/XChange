@@ -9,7 +9,7 @@
 
 	<groupId>com.github.badgerwithagun.XChange</groupId>
 	<artifactId>xchange-parent</artifactId>
-	<version>4.3.14.orko.4-SNAPSHOT</version>
+	<version>orko-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>XChange</name>
