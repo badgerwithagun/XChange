@@ -6,7 +6,7 @@
     <parent>
         <groupId>com.github.badgerwithagun.XChange</groupId>
         <artifactId>xchange-parent</artifactId>
-        <version>orko-SNAPSHOT</version>
+        <version>orko.1</version>
     </parent>
 
     <artifactId>xchange-bx</artifactId>
@@ -27,7 +27,7 @@
         <dependency>
             <groupId>com.github.badgerwithagun.XChange</groupId>
             <artifactId>xchange-core</artifactId>
-            <version>orko-SNAPSHOT</version>
+            <version>orko.1</version>
         </dependency>
 
     </dependencies>
