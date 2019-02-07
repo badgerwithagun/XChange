@@ -5,7 +5,7 @@
     <parent>
         <groupId>com.github.badgerwithagun.XChange</groupId>
         <artifactId>xchange-parent</artifactId>
-        <version>orko-SNAPSHOT</version>
+        <version>4.3.14.orko.5</version>
     </parent>
 
     <artifactId>xchange-coinmarketcap</artifactId>
