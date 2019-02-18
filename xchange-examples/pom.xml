@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>com.github.badgerwithagun.XChange</groupId>
 		<artifactId>xchange-parent</artifactId>
-		<version>orko-SNAPSHOT</version>
+		<version>4.3.15.orko.3</version>
 	</parent>
 
 	<artifactId>xchange-examples</artifactId>
