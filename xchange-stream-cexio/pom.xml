@@ -7,6 +7,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <name>XChange Cex.io Stream</name>
     <artifactId>xchange-stream-cexio</artifactId>
 
     <dependencies>

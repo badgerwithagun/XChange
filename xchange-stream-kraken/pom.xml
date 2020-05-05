@@ -7,7 +7,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <name>XChange Kraken Stream</name>
     <artifactId>xchange-stream-kraken</artifactId>
+
     <dependencies>
         <dependency>
             <groupId>org.knowm.xchange</groupId>
